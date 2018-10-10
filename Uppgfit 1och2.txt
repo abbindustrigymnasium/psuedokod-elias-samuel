@@ -1,0 +1,21 @@
+ta in DOB
+antalmånader  = 10
+if DOB = juli-september -0,5 antalmånader
+antalmånader*1250=pengar
+print pengar, print txt ett år 
+print pengar*3, print txt hel skolgång
+
+UPPGIFT 2:
+Pengar = 347
+1burk = 13,95 Pengar
+3burk = 30 Pengar
+3burk/pengar=antal3burk (avrunda neråt till närmaste heltal)
+3burk*antal3burk=kostnad3burk
+Pengar-kostnad3burk=pengarkvar
+1burk/pengarkvar=antal1burk (avrunda neråt till närmaste heltal)
+
+Antal3burk * 3 + antal1burk = burkartotalt
+
+
+
+
